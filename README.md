@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Bonik
+## What is Bonik
+Bonik is an ecommerce platform for the sustian entrepreneurs. Its an academic API project under CSE446 course.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
